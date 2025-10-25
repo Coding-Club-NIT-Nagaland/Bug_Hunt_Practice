@@ -1,6 +1,6 @@
 # 🐞 Bug Hunt: First-Year Challenge
 
-Welcome to the First-Year Bug Hunt! This repository contains a set of coding challenges designed for new programmers.
+Welcome to the Bug Hunt! This repository contains a set of coding challenges designed for new programmers.
 
 ## The Challenge
 
