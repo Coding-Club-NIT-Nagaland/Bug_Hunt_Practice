@@ -20,7 +20,13 @@ int calculateTeamPotential(string candidates, int ratings[], int size) {
     }
     return teamPotentialScore;
 }
-
+int sumRatings(int ratings[], int size) {
+    int total = 0;
+    for (int i = 0; i < size; i++) {
+        total += ratings[i];
+    }
+    return total;
+}
 int main() {
     string candidates = "axbyciz";
     int ratings[] = {8, 10, 3, 6, 9, 2, 7};
