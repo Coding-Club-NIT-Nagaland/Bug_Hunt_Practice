@@ -27,6 +27,9 @@ int sumRatings(int ratings[], int size) {
     }
     return total;
 }
+int add(int a, int b) {
+    return a + b;
+}
 int main() {
     string candidates = "axbyciz";
     int ratings[] = {8, 10, 3, 6, 9, 2, 7};
