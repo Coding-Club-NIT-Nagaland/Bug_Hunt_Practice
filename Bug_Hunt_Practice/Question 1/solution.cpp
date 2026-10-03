@@ -38,5 +38,6 @@ int main() {
     int score = calculateTeamPotential(candidates, ratings, size);
     cout << "Expected Output: 8" << endl;
     cout << "Actual Output:   " << score << endl;
+    cout << "Sum of 5 and 10 is: " << sum(5, 10) << endl;
     return 0;
 }
